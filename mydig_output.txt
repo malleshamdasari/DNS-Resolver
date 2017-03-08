@@ -1,0 +1,1078 @@
+Output for top 25 websites
+
+
+################ Output for Google.com #################
+
+A records
+id 65226
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.com. IN A
+;ANSWER
+Google.com. 299 IN A 216.58.195.142
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 46043
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.com. IN NS
+;ANSWER
+Google.com. 85786 IN NS ns3.Google.com.
+Google.com. 85786 IN NS ns2.Google.com.
+Google.com. 85786 IN NS ns4.Google.com.
+Google.com. 85786 IN NS ns1.Google.com.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 1082
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.com. IN MX
+;ANSWER
+Google.com. 599 IN MX 50 alt4.aspmx.l.Google.com.
+Google.com. 599 IN MX 20 alt1.aspmx.l.Google.com.
+Google.com. 599 IN MX 40 alt3.aspmx.l.Google.com.
+Google.com. 599 IN MX 30 alt2.aspmx.l.Google.com.
+Google.com. 599 IN MX 10 aspmx.l.Google.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Youtube.com #################
+
+A records
+id 52188
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Youtube.com. IN A
+;ANSWER
+Youtube.com. 299 IN A 172.217.6.206
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 18583
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Youtube.com. IN NS
+;ANSWER
+Youtube.com. 86399 IN NS ns3.google.com.
+Youtube.com. 86399 IN NS ns2.google.com.
+Youtube.com. 86399 IN NS ns1.google.com.
+Youtube.com. 86399 IN NS ns4.google.com.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 27631
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Youtube.com. IN MX
+;ANSWER
+Youtube.com. 599 IN MX 40 alt3.aspmx.l.google.com.
+Youtube.com. 599 IN MX 20 alt1.aspmx.l.google.com.
+Youtube.com. 599 IN MX 50 alt4.aspmx.l.google.com.
+Youtube.com. 599 IN MX 10 aspmx.l.google.com.
+Youtube.com. 599 IN MX 30 alt2.aspmx.l.google.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Facebook.com #################
+
+A records
+id 25967
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Facebook.com. IN A
+;ANSWER
+Facebook.com. 233 IN A 31.13.71.36
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 20241
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Facebook.com. IN NS
+;ANSWER
+Facebook.com. 45777 IN NS a.ns.Facebook.com.
+Facebook.com. 45777 IN NS b.ns.Facebook.com.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 15214
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Facebook.com. IN MX
+;ANSWER
+Facebook.com. 137 IN MX 10 msgin.vvv.Facebook.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Baidu.com #################
+
+A records
+id 59913
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Baidu.com. IN A
+;ANSWER
+Baidu.com. 511 IN A 180.149.132.47
+Baidu.com. 511 IN A 220.181.57.217
+Baidu.com. 511 IN A 111.13.101.208
+Baidu.com. 511 IN A 123.125.114.144
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 23627
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Baidu.com. IN NS
+;ANSWER
+Baidu.com. 63007 IN NS dns.Baidu.com.
+Baidu.com. 63007 IN NS ns7.Baidu.com.
+Baidu.com. 63007 IN NS ns3.Baidu.com.
+Baidu.com. 63007 IN NS ns4.Baidu.com.
+Baidu.com. 63007 IN NS ns2.Baidu.com.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 46269
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Baidu.com. IN MX
+;ANSWER
+Baidu.com. 5430 IN MX 20 jpmx.Baidu.com.
+Baidu.com. 5430 IN MX 20 mx50.Baidu.com.
+Baidu.com. 5430 IN MX 10 mx.n.shifen.com.
+Baidu.com. 5430 IN MX 20 mx1.Baidu.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Yahoo.com #################
+
+A records
+id 4057
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Yahoo.com. IN A
+;ANSWER
+Yahoo.com. 919 IN A 98.138.253.109
+Yahoo.com. 919 IN A 98.139.183.24
+Yahoo.com. 919 IN A 206.190.36.45
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 28360
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Yahoo.com. IN NS
+;ANSWER
+Yahoo.com. 22206 IN NS ns2.Yahoo.com.
+Yahoo.com. 22206 IN NS ns1.Yahoo.com.
+Yahoo.com. 22206 IN NS ns5.Yahoo.com.
+Yahoo.com. 22206 IN NS ns3.Yahoo.com.
+Yahoo.com. 22206 IN NS ns4.Yahoo.com.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 33980
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Yahoo.com. IN MX
+;ANSWER
+Yahoo.com. 449 IN MX 1 mta5.am0.yahoodns.net.
+Yahoo.com. 449 IN MX 1 mta6.am0.yahoodns.net.
+Yahoo.com. 449 IN MX 1 mta7.am0.yahoodns.net.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Wikipedia.org #################
+
+A records
+id 25253
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Wikipedia.org. IN A
+;ANSWER
+Wikipedia.org. 599 IN A 208.80.154.224
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 953
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Wikipedia.org. IN NS
+;ANSWER
+Wikipedia.org. 84653 IN NS ns1.wikimedia.org.
+Wikipedia.org. 84653 IN NS ns2.wikimedia.org.
+Wikipedia.org. 84653 IN NS ns0.wikimedia.org.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 63111
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Wikipedia.org. IN MX
+;ANSWER
+Wikipedia.org. 3599 IN MX 10 mx1001.wikimedia.org.
+Wikipedia.org. 3599 IN MX 50 mx2001.wikimedia.org.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Google.co.in #################
+
+A records
+id 47818
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.co.in. IN A
+;ANSWER
+Google.co.in. 299 IN A 172.217.4.195
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 46265
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.co.in. IN NS
+;ANSWER
+Google.co.in. 86399 IN NS ns3.google.com.
+Google.co.in. 86399 IN NS ns1.google.com.
+Google.co.in. 86399 IN NS ns4.google.com.
+Google.co.in. 86399 IN NS ns2.google.com.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 35780
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.co.in. IN MX
+;ANSWER
+Google.co.in. 599 IN MX 30 alt2.aspmx.l.google.com.
+Google.co.in. 599 IN MX 50 alt4.aspmx.l.google.com.
+Google.co.in. 599 IN MX 20 alt1.aspmx.l.google.com.
+Google.co.in. 599 IN MX 10 aspmx.l.google.com.
+Google.co.in. 599 IN MX 40 alt3.aspmx.l.google.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Tmall.com #################
+
+A records
+id 10053
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Tmall.com. IN A
+;ANSWER
+Tmall.com. 299 IN A 140.205.130.99
+Tmall.com. 299 IN A 140.205.94.193
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 3955
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Tmall.com. IN NS
+;ANSWER
+Tmall.com. 2268 IN NS ns6.taobao.com.
+Tmall.com. 2268 IN NS ns4.taobao.com.
+Tmall.com. 2268 IN NS ns7.taobao.com.
+Tmall.com. 2268 IN NS ns5.taobao.com.
+;AUTHORITY
+;ADDITIONAL
+Timeout
+
+
+MX records
+id 3098
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Tmall.com. IN MX
+;ANSWER
+Tmall.com. 599 IN MX 10 mx1.alibaba-inc.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Qq.com #################
+
+A records
+id 51345
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Qq.com. IN A
+;ANSWER
+Qq.com. 214 IN A 125.39.240.113
+Qq.com. 214 IN A 61.135.157.156
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 24941
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Qq.com. IN NS
+;ANSWER
+Qq.com. 65632 IN NS ns3.Qq.com.
+Qq.com. 65632 IN NS ns4.Qq.com.
+Qq.com. 65632 IN NS ns1.Qq.com.
+Qq.com. 65632 IN NS ns2.Qq.com.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 13860
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Qq.com. IN MX
+;ANSWER
+Qq.com. 4918 IN MX 30 mx1.Qq.com.
+Qq.com. 4918 IN MX 10 mx3.Qq.com.
+Qq.com. 4918 IN MX 20 mx2.Qq.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Amazon.com #################
+
+A records
+id 26023
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Amazon.com. IN A
+;ANSWER
+Amazon.com. 26 IN A 54.239.26.128
+Amazon.com. 26 IN A 54.239.25.208
+Amazon.com. 26 IN A 54.239.17.6
+Amazon.com. 26 IN A 54.239.25.192
+Amazon.com. 26 IN A 54.239.17.7
+Amazon.com. 26 IN A 54.239.25.200
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 27443
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Amazon.com. IN NS
+;ANSWER
+Amazon.com. 373 IN NS pdns1.ultradns.net.
+Amazon.com. 373 IN NS ns4.p31.dynect.net.
+Amazon.com. 373 IN NS ns3.p31.dynect.net.
+Amazon.com. 373 IN NS ns2.p31.dynect.net.
+Amazon.com. 373 IN NS ns1.p31.dynect.net.
+Amazon.com. 373 IN NS pdns6.ultradns.co.uk.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 49338
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Amazon.com. IN MX
+;ANSWER
+Amazon.com. 239 IN MX 5 amazon-smtp.Amazon.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Sohu.com #################
+
+A records
+id 37361
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Sohu.com. IN A
+;ANSWER
+Sohu.com. 207 IN A 220.181.90.20
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 49088
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Sohu.com. IN NS
+;ANSWER
+Sohu.com. 4431 IN NS ns2.Sohu.com.
+Sohu.com. 4431 IN NS ns4.Sohu.com.
+Sohu.com. 4431 IN NS ns8.Sohu.com.
+Sohu.com. 4431 IN NS ns7.Sohu.com.
+Sohu.com. 4431 IN NS ns1.Sohu.com.
+Sohu.com. 4431 IN NS dns.Sohu.com.
+Sohu.com. 4431 IN NS ns5.Sohu.com.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 22805
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Sohu.com. IN MX
+;ANSWER
+Sohu.com. 13005 IN MX 10 sohumx.h.a.Sohu.com.
+Sohu.com. 13005 IN MX 5 sohumx2.Sohu.com.
+Sohu.com. 13005 IN MX 5 sohumx1.Sohu.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Google.co.jp #################
+
+A records
+id 24475
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.co.jp. IN A
+;ANSWER
+Google.co.jp. 299 IN A 172.217.4.195
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 41064
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.co.jp. IN NS
+;ANSWER
+Google.co.jp. 86399 IN NS ns3.google.com.
+Google.co.jp. 86399 IN NS ns1.google.com.
+Google.co.jp. 86399 IN NS ns2.google.com.
+Google.co.jp. 86399 IN NS ns4.google.com.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 64249
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.co.jp. IN MX
+;ANSWER
+Google.co.jp. 599 IN MX 10 aspmx.l.google.com.
+Google.co.jp. 599 IN MX 50 alt4.aspmx.l.google.com.
+Google.co.jp. 599 IN MX 30 alt2.aspmx.l.google.com.
+Google.co.jp. 599 IN MX 20 alt1.aspmx.l.google.com.
+Google.co.jp. 599 IN MX 40 alt3.aspmx.l.google.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Taobao.com #################
+
+A records
+id 20053
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Taobao.com. IN A
+;ANSWER
+Taobao.com. 92 IN A 140.205.94.189
+Taobao.com. 92 IN A 140.205.220.96
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 12777
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Taobao.com. IN NS
+;ANSWER
+Taobao.com. 1502 IN NS ns7.Taobao.com.
+Taobao.com. 1502 IN NS ns6.Taobao.com.
+Taobao.com. 1502 IN NS ns4.Taobao.com.
+Taobao.com. 1502 IN NS ns5.Taobao.com.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 23029
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Taobao.com. IN MX
+;ANSWER
+Taobao.com. 599 IN MX 10 mx1.alibaba-inc.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Live.com #################
+
+A records
+id 36565
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Live.com. IN A
+;ANSWER
+Live.com. 990 IN A 65.55.118.92
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 81
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Live.com. IN NS
+;ANSWER
+Live.com. 23783 IN NS ns2.msft.net.
+Live.com. 23783 IN NS ns3.msft.net.
+Live.com. 23783 IN NS ns4.msft.net.
+Live.com. 23783 IN NS ns1.msft.net.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 8105
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Live.com. IN MX
+;ANSWER
+Live.com. 1137 IN MX 5 mx4.hotmail.com.
+Live.com. 1137 IN MX 5 mx1.hotmail.com.
+Live.com. 1137 IN MX 5 mx2.hotmail.com.
+Live.com. 1137 IN MX 5 mx3.hotmail.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Vk.com #################
+
+A records
+id 3001
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Vk.com. IN A
+;ANSWER
+Vk.com. 26 IN A 95.213.11.180
+Vk.com. 26 IN A 87.240.165.82
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 28118
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Vk.com. IN NS
+;ANSWER
+Vk.com. 899 IN NS ns2.vkontakte.ru.
+Vk.com. 899 IN NS ns3.vkontakte.ru.
+Vk.com. 899 IN NS ns4.vkontakte.ru.
+Vk.com. 899 IN NS ns1.vkontakte.ru.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 59375
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Vk.com. IN MX
+;ANSWER
+Vk.com. 646 IN MX 0 mail1.Vk.com.
+Vk.com. 646 IN MX 10 mail2.Vk.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Twitter.com #################
+
+A records
+id 8178
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Twitter.com. IN A
+;ANSWER
+Twitter.com. 1276 IN A 104.244.42.65
+Twitter.com. 1276 IN A 104.244.42.193
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 36096
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Twitter.com. IN NS
+;ANSWER
+Twitter.com. 13611 IN NS ns3.p34.dynect.net.
+Twitter.com. 13611 IN NS r01-01.ns.twtrdns.net.
+Twitter.com. 13611 IN NS ns4.p34.dynect.net.
+Twitter.com. 13611 IN NS ns1.p34.dynect.net.
+Twitter.com. 13611 IN NS d01-02.ns.twtrdns.net.
+Twitter.com. 13611 IN NS r01-02.ns.twtrdns.net.
+Twitter.com. 13611 IN NS ns2.p34.dynect.net.
+Twitter.com. 13611 IN NS d01-01.ns.twtrdns.net.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 37967
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Twitter.com. IN MX
+;ANSWER
+Twitter.com. 585 IN MX 30 ASPMX2.GOOGLEMAIL.com.
+Twitter.com. 585 IN MX 20 alt2.aspmx.l.google.com.
+Twitter.com. 585 IN MX 30 ASPMX3.GOOGLEMAIL.com.
+Twitter.com. 585 IN MX 10 aspmx.l.google.com.
+Twitter.com. 585 IN MX 20 alt1.aspmx.l.google.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for 360.cn #################
+Timeout
+
+Timeout
+
+
+A records
+None
+
+NS records
+id 11104
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+360.cn. IN NS
+;ANSWER
+360.cn. 3599 IN NS dns8.360safe.com.
+360.cn. 3599 IN NS dns9.360safe.com.
+360.cn. 3599 IN NS dns2.360safe.com.
+360.cn. 3599 IN NS dns1.360safe.com.
+360.cn. 3599 IN NS dns3.360safe.com.
+360.cn. 3599 IN NS dns7.360safe.com.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 3738
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+360.cn. IN MX
+;ANSWER
+360.cn. 299 IN MX 5 tfw.qihoo.net.
+360.cn. 299 IN MX 10 tfw2.qihoo.net.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Instagram.com #################
+
+A records
+id 47825
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Instagram.com. IN A
+;ANSWER
+Instagram.com. 18 IN A 54.84.64.80
+Instagram.com. 18 IN A 54.85.174.32
+Instagram.com. 18 IN A 52.0.219.254
+Instagram.com. 18 IN A 54.236.93.86
+Instagram.com. 18 IN A 34.193.132.158
+Instagram.com. 18 IN A 54.80.126.125
+Instagram.com. 18 IN A 54.236.224.138
+Instagram.com. 18 IN A 52.0.142.173
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 60150
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Instagram.com. IN NS
+;ANSWER
+Instagram.com. 84667 IN NS ns-1349.awsdns-40.org.
+Instagram.com. 84667 IN NS ns-2016.awsdns-60.co.uk.
+Instagram.com. 84667 IN NS ns-384.awsdns-48.com.
+Instagram.com. 84667 IN NS ns-868.awsdns-44.net.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 64572
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Instagram.com. IN MX
+;ANSWER
+Instagram.com. 299 IN MX 10 mxa-00082601.gslb.pphosted.com.
+Instagram.com. 299 IN MX 10 mxb-00082601.gslb.pphosted.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Linkedin.com #################
+
+A records
+id 50638
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Linkedin.com. IN A
+;ANSWER
+Linkedin.com. 130 IN A 108.174.10.10
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 16523
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Linkedin.com. IN NS
+;ANSWER
+Linkedin.com. 84633 IN NS dns1.p09.nsone.net.
+Linkedin.com. 84633 IN NS dns2.p09.nsone.net.
+Linkedin.com. 84633 IN NS dns3.p09.nsone.net.
+Linkedin.com. 84633 IN NS dns4.p09.nsone.net.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 22006
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Linkedin.com. IN MX
+;ANSWER
+Linkedin.com. 2587 IN MX 10 mail-c.Linkedin.com.
+Linkedin.com. 2587 IN MX 10 mail-a.Linkedin.com.
+Linkedin.com. 2587 IN MX 10 mail.Linkedin.com.
+Linkedin.com. 2587 IN MX 10 mail-d.Linkedin.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Yahoo.co.jp #################
+
+A records
+id 14386
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Yahoo.co.jp. IN A
+;ANSWER
+Yahoo.co.jp. 31 IN A 182.22.59.229
+Yahoo.co.jp. 31 IN A 183.79.135.206
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 19257
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Yahoo.co.jp. IN NS
+;ANSWER
+Yahoo.co.jp. 157 IN NS ns01.Yahoo.co.jp.
+Yahoo.co.jp. 157 IN NS ns11.Yahoo.co.jp.
+Yahoo.co.jp. 157 IN NS ns12.Yahoo.co.jp.
+Yahoo.co.jp. 157 IN NS ns02.Yahoo.co.jp.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 3419
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Yahoo.co.jp. IN MX
+;ANSWER
+Yahoo.co.jp. 891 IN MX 10 mx1.mail.Yahoo.co.jp.
+Yahoo.co.jp. 891 IN MX 10 mx5.mail.Yahoo.co.jp.
+Yahoo.co.jp. 891 IN MX 10 mx3.mail.Yahoo.co.jp.
+Yahoo.co.jp. 891 IN MX 10 mx2.mail.Yahoo.co.jp.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Sina.com.cn #################
+
+A records
+id 11407
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Sina.com.cn. IN A
+;ANSWER
+Sina.com.cn. 11 IN A 202.108.33.60
+Sina.com.cn. 11 IN A 202.108.33.107
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 35678
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Sina.com.cn. IN NS
+;ANSWER
+Sina.com.cn. 72494 IN NS ns3.Sina.com.cn.
+Sina.com.cn. 72494 IN NS ns4.Sina.com.cn.
+Sina.com.cn. 72494 IN NS ns1.Sina.com.cn.
+Sina.com.cn. 72494 IN NS ns2.Sina.com.cn.
+;AUTHORITY
+;ADDITIONAL
+Timeout
+
+Timeout
+
+
+MX records
+None
+################ Output for Jd.com #################
+
+A records
+id 41394
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Jd.com. IN A
+;ANSWER
+Jd.com. 119 IN A 111.206.227.118
+;AUTHORITY
+;ADDITIONAL
+Timeout
+
+Timeout
+
+
+NS records
+None
+
+MX records
+id 63680
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Jd.com. IN MX
+;ANSWER
+Jd.com. 119 IN MX 10 mx.Jd.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Google.de #################
+
+A records
+id 46137
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.de. IN A
+;ANSWER
+Google.de. 299 IN A 172.217.4.195
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 45741
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.de. IN NS
+;ANSWER
+Google.de. 86399 IN NS ns2.google.com.
+Google.de. 86399 IN NS ns4.google.com.
+Google.de. 86399 IN NS ns3.google.com.
+Google.de. 86399 IN NS ns1.google.com.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 39437
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.de. IN MX
+;ANSWER
+Google.de. 599 IN MX 20 alt1.aspmx.l.google.com.
+Google.de. 599 IN MX 40 alt3.aspmx.l.google.com.
+Google.de. 599 IN MX 10 aspmx.l.google.com.
+Google.de. 599 IN MX 50 alt4.aspmx.l.google.com.
+Google.de. 599 IN MX 30 alt2.aspmx.l.google.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Reddit.com #################
+
+A records
+id 45685
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Reddit.com. IN A
+;ANSWER
+Reddit.com. 266 IN A 151.101.129.140
+Reddit.com. 266 IN A 151.101.65.140
+Reddit.com. 266 IN A 151.101.193.140
+Reddit.com. 266 IN A 151.101.1.140
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 47655
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Reddit.com. IN NS
+;ANSWER
+Reddit.com. 86306 IN NS ns-1029.awsdns-00.org.
+Reddit.com. 86306 IN NS ns-1887.awsdns-43.co.uk.
+Reddit.com. 86306 IN NS ns-378.awsdns-47.com.
+Reddit.com. 86306 IN NS ns-557.awsdns-05.net.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 56919
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Reddit.com. IN MX
+;ANSWER
+Reddit.com. 299 IN MX 1 aspmx.l.google.com.
+Reddit.com. 299 IN MX 10 aspmx2.googlemail.com.
+Reddit.com. 299 IN MX 10 aspmx3.googlemail.com.
+Reddit.com. 299 IN MX 5 alt1.aspmx.l.google.com.
+Reddit.com. 299 IN MX 5 alt2.aspmx.l.google.com.
+;AUTHORITY
+;ADDITIONAL
+################ Output for Google.co.uk #################
+
+A records
+id 62026
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.co.uk. IN A
+;ANSWER
+Google.co.uk. 299 IN A 172.217.4.195
+;AUTHORITY
+;ADDITIONAL
+
+NS records
+id 60655
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.co.uk. IN NS
+;ANSWER
+Google.co.uk. 86399 IN NS ns4.google.com.
+Google.co.uk. 86399 IN NS ns1.google.com.
+Google.co.uk. 86399 IN NS ns3.google.com.
+Google.co.uk. 86399 IN NS ns2.google.com.
+;AUTHORITY
+;ADDITIONAL
+
+MX records
+id 50454
+opcode QUERY
+rcode NOERROR
+flags QR RD RA
+;QUESTION
+Google.co.uk. IN MX
+;ANSWER
+Google.co.uk. 599 IN MX 50 alt4.aspmx.l.google.com.
+Google.co.uk. 599 IN MX 20 alt1.aspmx.l.google.com.
+Google.co.uk. 599 IN MX 10 aspmx.l.google.com.
+Google.co.uk. 599 IN MX 40 alt3.aspmx.l.google.com.
+Google.co.uk. 599 IN MX 30 alt2.aspmx.l.google.com.
+;AUTHORITY
+;ADDITIONAL
