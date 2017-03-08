@@ -6,8 +6,8 @@ This folder contains the following:
 ===================================
 
 	* Source code
-		- Mydig-PartA.py (My Resolver)
-                - Mydig-PartB.py (My Resolver with dnssec)
+		- MyDigDNS.py (My Resolver)
+                - MyDigDNSSEC.py (My Resolver with dnssec)
         * Report.pdf
                 - Contains the part C i.e, CDF result and explanation
         * mydig_output.txt
