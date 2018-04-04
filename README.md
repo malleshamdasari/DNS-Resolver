@@ -8,8 +8,6 @@ This folder contains the following:
 	* Source code
 		- MyDigDNS.py (My Resolver)
                 - MyDigDNSSEC.py (My Resolver with dnssec)
-        * Report.pdf
-                - Contains the part C i.e, CDF result and explanation
         * mydig_output.txt
 		- Contains the output of A, NS, MX types for top 25 websites
 
