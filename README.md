@@ -13,15 +13,16 @@ This folder contains the following:
 
 Compilation and Running:
 =======================
-* Dependencies
-	- Python 2.7 or 3.x Later
-	- Install the dnspython and pycrypto
-* Running the code 
-	$ python mydig [Domain Name] [Resource Record type]
-* Examples
-	$ python mydig google.com A
-	$ python mydig facebook.com NS
-	$ python mydig stonybrook.edu MX
+
+        * Dependencies
+		- Python 2.7 or 3.x Later
+		- Install the dnspython and pycrypto
+	* Running the code 
+		$ python mydig [Domain Name] [Resource Record type]
+        * Examples
+		$ python mydig google.com A
+		$ python mydig facebook.com NS
+		$ python mydig stonybrook.edu MX
 
 Notes:
 ======
